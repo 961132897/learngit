@@ -4,3 +4,4 @@ Git是一个免费的软件
 Creating a new branch is quick & simple.
 go on
 manage branch
+found a bug
